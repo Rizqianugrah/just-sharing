@@ -3,7 +3,7 @@ export const SITE = {
   author: "NoName",
   profile: "",
   desc: "Personal blog theme.",
-  title: "Mind Drift",
+  title: "DriftMind",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
