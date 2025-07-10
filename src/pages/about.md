@@ -1,7 +1,7 @@
 ---
-layout: ../../layouts/AboutLayout.astro
 title: "About"
 ---
+
 
 Hai! 👋  
 Selamat datang di blog ini. Nggak perlu terlalu formal ya, karena tempat ini juga nggak dibuat buat keliatan keren.
