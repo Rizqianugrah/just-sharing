@@ -1,7 +1,7 @@
 ---
 title: "Cerita Pertamaku"
 description: "Ini adalah tulisan pertama di blog Just Sharing"
-pubDate: 2025-07-10
+pubDatetime: 2025-07-10
 heroImage: ""
 ---
 
